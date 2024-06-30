@@ -32,10 +32,11 @@
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
 # 📚 Projects
+- **[EasyLaw Backend](https://github.com/your-github-username/easylaw)**: Intelligent legal monitoring platform (Python, React, Elastic Search, chatbot)
+- **[EasyLaw Frontend](https://github.com/your-github-username/easylaw)**: Intelligent legal monitoring platform (Python, React, Elastic Search, chatbot)
 - **[Tidjelabine](https://github.com/your-github-username/tidjelabine)**: Vehicle comparison application (PHP, HTML, CSS, JavaScript, jQuery)
 - **[Dari](https://github.com/your-github-username/dari)**: Real estate advertisement management application (ReactJS)
 - **[Port'ESI](https://github.com/your-github-username/portes)**: Desktop application for portfolio generation (Java, file management)
-- **[EasyLaw](https://github.com/your-github-username/easylaw)**: Intelligent legal monitoring platform (Python, React, Elastic Search, chatbot)
 - **[Beauty’Heaven](https://github.com/your-github-username/beautyheaven)**: E-Commerce application with microservices and APIs (Oracle REST Data Services, Django)
 - **[Gariha](https://github.com/your-github-username/gariha)**: Mobile application for parking reservation (Kotlin)
 - **[Tera](https://github.com/your-github-username/tera)**: Google Docs clone for real-time collaboration (mobile app)
