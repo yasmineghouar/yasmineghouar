@@ -2,7 +2,7 @@
 
 👩🏻‍🎓 Studying Computer Science at the National Higher School of Computer Science, Algiers<br/>
 👩🏻‍💻 Passionate about AI, web development, and data science<br/>
-💭 Currently seeking an end-of-studies internship in software engineering and artificial intelligence!<br/>
+💭 Currently working on my end-of-studies internship in artificial intelligence.<br/>
 
 <!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats 
 ![](https://github-readme-stats.vercel.app/api?username=your-github-username&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
