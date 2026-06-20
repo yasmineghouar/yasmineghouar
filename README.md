@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Yasmine Ghouar!
 
-👩🏻‍🎓 Studying Computer Science at the National Higher School of Computer Science, Algiers<br/>
+👩🏻‍🎓 Computer Science Graduate from the National Higher School of Computer Science (ESI), Algiers<br/>
 👩🏻‍💻 Passionate about web development, and Intelligent systems<br/>
 💭 Currently working on my end-of-studies internship at Bouygues Telecom!.<br/>
 
