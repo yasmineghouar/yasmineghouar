@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Yasmine Ghouar!
 
 👩🏻‍🎓 Studying Computer Science at the National Higher School of Computer Science, Algiers<br/>
-👩🏻‍💻 Passionate about AI, web development, and data science<br/>
-💭 Currently working on my end-of-studies internship in artificial intelligence.<br/>
+👩🏻‍💻 Passionate about web development, and Intelligent systems<br/>
+💭 Currently working on my end-of-studies internship at Bouygues Telecom!.<br/>
 
 <!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats 
 ![](https://github-readme-stats.vercel.app/api?username=your-github-username&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
